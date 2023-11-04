@@ -303,7 +303,7 @@ The variables that can be changed for particular step of interactive flow can be
 
 
 
-## 3. **Run Synthesis** - ```run_synthesis```
+3. **Run Synthesis** - ```run_synthesis```
 
 ![Screenshot from 2023-11-04 17-22-51](https://github.com/Vinodkumar8318/PES_4-Bit-RCA/assets/142583979/442f343d-11db-4cc9-83b6-8dfad22b0b93)
 
@@ -311,7 +311,7 @@ The variables that can be changed for particular step of interactive flow can be
 
 
 
-## 4. **Run Floorplan** - ```run_floorplan```
+4. **Run Floorplan** - ```run_floorplan```
 
 ![Screenshot from 2023-11-04 17-23-06](https://github.com/Vinodkumar8318/PES_4-Bit-RCA/assets/142583979/0a38aaee-b360-4bdb-a9d9-61d30490e71d)
 
@@ -326,7 +326,7 @@ Open the new teminal and enter into FLOORPLAN directory and run the following Ma
 
 
 
-## 5. **Run Placement** - ```run_placement```
+5. **Run Placement** - ```run_placement```
    
 ![Screenshot from 2023-11-04 17-23-52](https://github.com/Vinodkumar8318/PES_4-Bit-RCA/assets/142583979/52a4558c-d4d0-4b3d-8e0d-1e7f3e3feb73)
 
@@ -341,7 +341,7 @@ Open the new teminal and enter into PLACEMENT directory and run the following Ma
 
 
 
-## 6. **Run CTS** - ```run_cts```
+6. **Run CTS** - ```run_cts```
 
 ![Screenshot from 2023-11-04 17-27-01](https://github.com/Vinodkumar8318/PES_4-Bit-RCA/assets/142583979/ac0026fa-6062-4ac1-8376-e3f5d19cef08)
 
@@ -365,7 +365,7 @@ Open the new teminal and enter into PLACEMENT directory and run the following Ma
 
 
 
-## 7. **Run Routing** - ```run_routing```
+7. **Run Routing** - ```run_routing```
 
 ![Screenshot from 2023-11-04 17-27-41](https://github.com/Vinodkumar8318/PES_4-Bit-RCA/assets/142583979/710d5c1b-ad95-4f2c-8ecc-d3d2b890e06a)
 
