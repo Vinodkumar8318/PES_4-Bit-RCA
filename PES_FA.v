@@ -1,7 +1,11 @@
-module PES_FA(in0, in1, cin, out, cout);
-	input in0, in1, cin;
-	output out, cout;
+For this project we ae not using Full adder and ripple carry adder as a two dseperate verilog file 
+   we are using only 1 verliog that is PES_RCA.v file which is there in the repo
 
-	assign out = in0 ^ in1 ^ cin;
-	assign cout = ((in0 ^ in1) & cin) | (in0 & in1);
-endmodule
+
+// module PES_FA(A, B, clk, S, Cout);
+	// input A, B, clk;
+	// output S, Cout;
+
+	// assign S = A ^ B;
+	// assign Cout = A | B;
+// endmodule
