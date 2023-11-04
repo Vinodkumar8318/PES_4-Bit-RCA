@@ -399,12 +399,12 @@ Open the new teminal and enter into ROUTING directory and run the following Magi
 
 ## Statistics
 
-#### Area = 238 u ^ 2  
-#### Utilization = 60 % utilization
-#### Internal Power = 6.28e-06 W  ( 37.5 % )
-#### Switching Power = 1.05e-05 ( 62.5 % )
-#### Leakage Power = 1.47e-10 ( 0 % )
-#### Total Power = 1.67e-05 ( 100 % )
+    Area = 238 u ^ 2  
+    Utilization = 60% utilization
+    Internal Power = 6.28e-06 W  (37.5%)
+    Switching Power = 1.05e-05 (62.5%)
+    Leakage Power = 1.47e-10 (0%)
+    Total Power = 1.67e-05 (100%)
 
 
 
